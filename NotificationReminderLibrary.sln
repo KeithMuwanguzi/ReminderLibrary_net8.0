@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationReminderLibrary", "NotificationReminderLibrary\NotificationReminderLibrary.csproj", "{954DCD65-EB76-4D61-8383-DB662C8A6AF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotificationReminderTest", "NotificationReminderTest\NotificationReminderTest.csproj", "{1883414C-0975-4C27-92CF-9DA22C244DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954DCD65-EB76-4D61-8383-DB662C8A6AF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954DCD65-EB76-4D61-8383-DB662C8A6AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954DCD65-EB76-4D61-8383-DB662C8A6AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954DCD65-EB76-4D61-8383-DB662C8A6AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1883414C-0975-4C27-92CF-9DA22C244DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1883414C-0975-4C27-92CF-9DA22C244DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1883414C-0975-4C27-92CF-9DA22C244DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1883414C-0975-4C27-92CF-9DA22C244DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

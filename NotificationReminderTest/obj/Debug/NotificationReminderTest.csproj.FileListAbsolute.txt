@@ -1,0 +1,9 @@
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\bin\Debug\NotificationReminderTest.exe
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\bin\Debug\NotificationReminderTest.pdb
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\bin\Debug\NotificationReminderLibrary.dll
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\bin\Debug\NotificationReminderLibrary.pdb
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\obj\Debug\NotificationReminderTest.csproj.AssemblyReference.cache
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\obj\Debug\NotificationReminderTest.csproj.CoreCompileInputs.cache
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\obj\Debug\Notifica.6C1DCCDF.Up2Date
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\obj\Debug\NotificationReminderTest.exe
+D:\code\C#\NotificationReminderLibrary\NotificationReminderTest\obj\Debug\NotificationReminderTest.pdb

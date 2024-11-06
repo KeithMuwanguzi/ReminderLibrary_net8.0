@@ -1,0 +1,6 @@
+D:\code\C#\NotificationReminderLibrary\NotificationReminderLibrary\bin\Debug\NotificationReminderLibrary.dll
+D:\code\C#\NotificationReminderLibrary\NotificationReminderLibrary\bin\Debug\NotificationReminderLibrary.pdb
+D:\code\C#\NotificationReminderLibrary\NotificationReminderLibrary\obj\Debug\NotificationReminderLibrary.csproj.AssemblyReference.cache
+D:\code\C#\NotificationReminderLibrary\NotificationReminderLibrary\obj\Debug\NotificationReminderLibrary.csproj.CoreCompileInputs.cache
+D:\code\C#\NotificationReminderLibrary\NotificationReminderLibrary\obj\Debug\NotificationReminderLibrary.dll
+D:\code\C#\NotificationReminderLibrary\NotificationReminderLibrary\obj\Debug\NotificationReminderLibrary.pdb
