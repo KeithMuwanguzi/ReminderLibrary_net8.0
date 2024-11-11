@@ -29,22 +29,6 @@ namespace NotificationReminderTest
             api.TriggerReminder(reminderId);
             
             api.ShowLogs();
-            
-            //Download Rider {JetBrains Rider}
-            //Change my email to yours and send me emails = keithjeyson@gmail.com
-            //Google Account settings - Search {App passwords}
-            
-            //Version is V3.5 - .NET9.0
-            
-            //Look for more functionalities of the system
-            //-removing reminder after it has been run
-            //Also use a while loop in the testing
-            //-to have a system like simulation of the library usage
-            
-            
-            //User manual
-            //-Methods in the api - Explain then and explain their usages {In the documentation of the
-            //give usage examples before taking it to him - It shows you are better prepared
         }
     }
 }
